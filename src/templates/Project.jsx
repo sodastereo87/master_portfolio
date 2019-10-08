@@ -88,7 +88,6 @@ export const projectQuery = graphql`
       slug
       fields {
         descriptionHtml
-        excerpt
       }
       links {
         title
