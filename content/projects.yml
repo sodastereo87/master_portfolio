@@ -1,0 +1,56 @@
+# app 1
+- title: Responsive Landing Page
+  slug: /Responsive_Landing_Page/
+  img: images/Screenshot (88).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Responsive Landing Page
+      type: website
+      url: https://sodastereo87.github.io/Responsive_Landing_Page/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Responsive_Landing_Page
+   
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+   
+   # app 2
+- title: Bootflix
+  slug: /Bootflix/
+  img: images/Screenshot (68).png
+  description: >
+   
+   Main features of the app allows users:
+    -Search movies by name and see results.
+    -Watch YouTube videos related to the movies.
+    -See info on IMDB.
+    -Get ‘this’ Gifs and have some fun.
+    -Firestore save search movies.
+    -Firebase Authentication to gauge users’ interests.
+
+
+  links:
+    - title: Responsive Landing Page
+      type: website
+      url: https://sodastereo87.github.io/Responsive_Landing_Page/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Responsive_Landing_Page
+   
+  techstack:
+    - HTML
+    - CSS
+    - Firebase Cloud Firestore Database
+    - Firebase Cloud Realtime Database
+    - OMDB API
+    - YouTube API
+    - Giphy API
+    - Materialize.css by Google
+    - Firebase Authentication
+
+   
