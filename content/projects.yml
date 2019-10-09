@@ -59,7 +59,7 @@
   img: images/Screenshot (58).png
   description: >
    
-   Main features of the app allows users:
+   
     coming soon....
 
 
@@ -82,3 +82,23 @@
     - Materialize.css by Google
     - Firebase Authentication
    
+# app 4
+- title: Responsive Landing Page
+  slug: /Responsive_Landing_Page/
+  img: images/Screenshot (88).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Responsive Landing Page
+      type: website
+      url: https://sodastereo87.github.io/Responsive_Landing_Page/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Responsive_Landing_Page
+   
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
