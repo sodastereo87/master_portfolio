@@ -53,4 +53,32 @@
     - Materialize.css by Google
     - Firebase Authentication
 
+# app 3
+- title: Crystals Collector Game
+  slug: /Crystals Collector Game/
+  img: images/Screenshot (58).png
+  description: >
+   
+   Main features of the app allows users:
+    coming soon....
+
+
+  links:
+    - title: Crystals Collector Game 
+      type: website
+      url: https://sodastereo87.github.io/unit-4-game/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/unit-4-game
+   
+  techstack:
+    - HTML
+    - CSS
+    - Firebase Cloud Firestore Database
+    - Firebase Cloud Realtime Database
+    - OMDB API
+    - YouTube API
+    - Giphy API
+    - Materialize.css by Google
+    - Firebase Authentication
    
