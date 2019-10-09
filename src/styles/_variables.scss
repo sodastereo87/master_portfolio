@@ -4,12 +4,12 @@ $easing: cubic-bezier(.75, 0, .08, 1);
 // Colors
 /////////////////////////////////////
 
-$brand-main: #015565;
-$brand-cyan: #43a699;
-$brand-main-light: #88bec8;
-$brand-light: #e7eef4;
+$brand-main: white;
+$brand-cyan: steelblue;
+$brand-main-light: steelblue;
+$brand-light: #6dace2;
 
-$brand-grey: #4e5d63;
+$brand-grey: #4b3469;
 $brand-grey-light: lighten($brand-grey, 15%);
 $brand-grey-dimmed: lighten($brand-grey, 50%);
 
