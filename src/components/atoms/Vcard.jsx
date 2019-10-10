@@ -48,9 +48,7 @@ export default class Vcard extends PureComponent {
               // so user knows what to expect when hovering the link before clicking
               href={meta.addressbook}
               onClick={handleAddressbookClick}
-            >
-              Add to addressbook
-            </a>
+            ></a>
           )
         }}
       />
