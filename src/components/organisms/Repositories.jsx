@@ -10,7 +10,7 @@ export default class Repositories extends PureComponent {
   }
 
   render() {
-    if (!this.props.repos) return null
+    if (!this.props) return null
 
     return (
       <section className={styles.section}>

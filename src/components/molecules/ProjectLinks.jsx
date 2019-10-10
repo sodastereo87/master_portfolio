@@ -15,9 +15,7 @@ export default class ProjectLinks extends PureComponent {
   render() {
     return (
       <div className={styles.projectLinks}>
-        <h3 className={styles.title}>
-          Links <span>Learn more on the interwebz.</span>
-        </h3>
+        <h3 className={styles.title}> Links </h3>
 
         <ul>
           {this.props.links.map(link => {

@@ -17,7 +17,7 @@ const query = graphql`
   }
 `
 
-const FooterMarkup = ({ pkg, meta, year }) => {
+const FooterMarkup = ({ year }) => {
   const classes = classNames('h-card', [styles.footer])
 
   return (
@@ -28,17 +28,17 @@ const FooterMarkup = ({ pkg, meta, year }) => {
 
       <p className={styles.actions}>
         <Vcard />
-        <a className="u-key" href={meta.gpg}>
+        {/* <a className="u-key" href={meta.gpg}>
           PGP/GPG key
-        </a>
-        <a href={pkg}>Found a bug?</a>
+        </a> */}
+        {/* <a href={pkg}>Found a bug?</a> */}
       </p>
       <p className={styles.copyright}>
         <small>
           &copy; {year}{' '}
-          <a className="u-url" href={meta.url}>
+          {/* <a className="u-url" href={meta.url}>
             {meta.title}
-          </a>{' '}
+          </a>{' '} */}
           &mdash; All Rights Reserved
         </small>
       </p>
