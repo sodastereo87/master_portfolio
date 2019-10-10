@@ -13,8 +13,8 @@ describe('LinkIcon', () => {
     rerender(<LinkIcon type={'github'} />)
     expect(container.firstChild.nodeName).toBe('svg')
 
-    rerender(<LinkIcon type={'dribbble'} />)
-    expect(container.firstChild.nodeName).toBe('svg')
+    // rerender(<LinkIcon type={'dribbble'} />)
+    // expect(container.firstChild.nodeName).toBe('svg')
 
     rerender(<LinkIcon type={'info'} />)
     expect(container.firstChild.nodeName).toBe('svg')
@@ -28,8 +28,8 @@ describe('LinkIcon', () => {
     rerender(<LinkIcon title={'Email'} />)
     expect(container.firstChild.nodeName).toBe('svg')
 
-    rerender(<LinkIcon title={'Blog'} />)
-    expect(container.firstChild.nodeName).toBe('svg')
+    // rerender(<LinkIcon title={'Blog'} />)
+    // expect(container.firstChild.nodeName).toBe('svg')
 
     rerender(<LinkIcon title={'Twitter'} />)
     expect(container.firstChild.nodeName).toBe('svg')

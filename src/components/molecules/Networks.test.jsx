@@ -16,10 +16,10 @@ describe('Networks', () => {
     expect(container.firstChild).toBeInTheDocument()
     expect(container.firstChild.nodeName).toBe('ASIDE')
     expect(getByTestId('network-email').href).toBe(social.Email)
-    expect(getByTestId('network-blog').href).toBe(social.Blog + '/')
+    // expect(getByTestId('network-blog').href).toBe(social.Blog + '/')
     expect(getByTestId('network-twitter').href).toBe(social.Twitter)
     expect(getByTestId('network-github').href).toBe(social.GitHub)
-    expect(getByTestId('network-dribbble').href).toBe(social.Dribbble)
+    // expect(getByTestId('network-dribbble').href).toBe(social.Dribbble)
   })
 
   it('renders correctly in small variant', () => {
