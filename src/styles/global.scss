@@ -99,6 +99,8 @@ a {
     &:focus {
         color: lighten($brand-cyan, 10%);
         transform: translate3d(0, -.1rem, 0);
+     
+        
     }
 }
 
@@ -108,9 +110,13 @@ a {
 img,
 video,
 svg {
-    max-width: 100%;
+    max-width: 95%;
     height: auto;
-    margin: 0;
+    margin: 10px;
+}
+
+img:hover {
+     opacity: 0.5;
 }
 
 #___gatsby {

@@ -20,6 +20,7 @@
     - Bootstrap
    
    # app 2
+
 - title: Bootflix
   slug: /Bootflix/
   img: images/Screenshot (68).png
@@ -102,3 +103,141 @@
     - HTML
     - CSS
     - Bootstrap
+
+# app 5
+- title: Train Scheduler
+  slug: /Train Scheduler/
+  img: images/Screenshot (62).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Train Scheduler
+      type: website
+      url: https://sodastereo87.github.io/Train-Scheduler/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Train-Scheduler  
+   
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - Firebase Cloud Realtime Database
+    - Moment.js
+
+    # app 6
+
+- title: GifTastic  
+  slug: /GifTastic  /
+  img: images/Screenshot (64).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: GifTastic  
+      type: website
+      url: https://sodastereo87.github.io/GifTastic/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/GifTastic
+   
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - giphy Database
+
+    # app 7
+
+- title: Interactive Quiz  
+  slug: /Interactive Quiz  /
+  img: images/Screenshot (90).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Interactive Quiz  
+      type: website
+      url: hhttps://sodastereo87.github.io/interactive_quiz/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/interactive_quiz
+
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+    
+        # app 8
+
+- title: Word Guess Game  
+  slug: /Word Guess Game  /
+  img: images/Screenshot (63).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Word Guess Game  
+      type: website
+      url: https://sodastereo87.github.io/Word-Guess-Game/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Word-Guess-Game
+
+  techstack:
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+
+     # app 9
+
+- title: Donuts Game  
+  slug: /Donuts Game  /
+  img: images/Screenshot (91).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Donuts Game  
+      type: website
+      url: https://sodastereo87.github.io/Homer-s_donuts_game-js/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Homer-s_donuts_game-js
+  techstack:
+    - HTML
+    - CSS
+    - JavaScript
+    
+     # app 10
+
+- title: RGB Color Game 
+  slug: /RGB Color Game /
+  img: images/Screenshot (65).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: RGB Color Game 
+      type: website
+      url: https://sodastereo87.github.io/The_Awesome_RGB_Color-Game/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/The_Awesome_RGB_Color-Game
+  techstack:
+    - HTML
+    - CSS
+    - JavaScript
+    
+    
