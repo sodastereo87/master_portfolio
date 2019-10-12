@@ -4,6 +4,7 @@
 *::before,
 *::after {
     box-sizing: border-box;
+    
 }
 
 html,
@@ -99,8 +100,8 @@ a {
     &:focus {
         color: lighten($brand-cyan, 10%);
         transform: translate3d(0, -.1rem, 0);
-     
-        
+        opacity: 0.8;
+        filter: alpha(opacity=70);
     }
 }
 
@@ -113,10 +114,6 @@ svg {
     max-width: 95%;
     height: auto;
     margin: 10px;
-}
-
-img:hover {
-     opacity: 0.5;
 }
 
 #___gatsby {
