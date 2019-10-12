@@ -214,6 +214,7 @@
     - title: 'Github Repositorie'
       type: github
       url: https://github.com/sodastereo87/Homer-s_donuts_game-js
+
   techstack:
     - HTML
     - CSS
@@ -235,9 +236,164 @@
     - title: 'Github Repositorie'
       type: github
       url: https://github.com/sodastereo87/The_Awesome_RGB_Color-Game
+
   techstack:
     - HTML
     - CSS
     - JavaScript
+
+    # app 11
+
+- title: ToDo List 
+  slug: /ToDo List /
+  img: images/Screenshot (66).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: ToDo List 
+      type: website
+      url: https://sodastereo87.github.io/To-Do-List/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/To-Do-List
+
+  techstack:
+    - HTML
+    - CSS
+    - JavaScript
+    - Font Awesome
+    - jQuery
+
+     # app 11
+
+- title: Todo Search Bar 
+  slug: /Todo Search Bar /
+  img: images/Screenshot (94).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Todo Search Bar 
+      type: website
+      url: https://sodastereo87.github.io/todo_with_search_bar/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/todo_with_search_bar
+
+  techstack:
+    - HTML
+    - CSS
+    - JavaScript
+    - Font Awesome
+    - Bootstrap
+
+     # app 12
+
+- title: Eat Da Burguer 
+  slug: /Eat Da Burguer /
+  img: images/Screenshot (70).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Eat Da Burguer 
+      type: website
+      url: https://evening-falls-19783.herokuapp.com/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Eat-Da-Burger-
+
+  techstack:
+    - Handlebars  
+    - CSS
+    - JavaScript
+    - Express 
+    - MySQL
+
+    # app 13
+
+- title: Friend Finder
+  slug: /Friend Finder/
+  img: images/Screenshot (71).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: Friend Finder
+      type: website
+      url: https://guarded-peak-51012.herokuapp.com
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/FriendFinder
+
+  techstack:
+    - HTML  
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - Express 
     
+    # app 14
+
+- title: MongoDB Scraper
+  slug: /MongoDB Scraper/
+  img: images/Screenshot (81).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: MongoDB Scraper
+      type: website
+      url: https://warm-citadel-53512.herokuapp.com/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/Mongo_scraper
+  techstack:
+    - HTML  
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - React
+    - Express
+    - MongoDB
+    - Mongoose 
+    - Cheerio
+    - Handlebars
+    - Node.js
+    - Heroku, mLab
+
+     # app 15
+
+- title: Weather App JS
+  slug: /Weather App JS/
+  img: images/Screenshot (93).png
+  description: >
+   
+   Check the weather from any location or big city in the world.
+
+  links:
+    - title: Weather App JS
+      type: website
+      url: https://sodastereo87.github.io/weather_app_js/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/weather_app_js
+  techstack:
+    - HTML  
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - Forecast API
+
+    
+
+
+
+
     
