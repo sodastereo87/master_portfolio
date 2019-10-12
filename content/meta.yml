@@ -3,7 +3,7 @@
   description: Portfolio of web apps
   url: https://master-portfolio.herokuapp.com/
   email: m@fernando.valle11@gmail.com
-  avatar: ../src/images/avatar.jpg
+  avatar: ../src/images/1460px-React_logo-324x400.png
   img: ../src/images/twitter-card.png
 
   social:
@@ -16,7 +16,7 @@
   availability:
     status: false
     available: 'Available for new projects. <a href="mailto:fernando.valle11@gmail.com">Let’s talk</a>!'
-    unavailable: Always available for new projects.<a href="mailto:fernando.valle11@gmail.com"> Let’s talk</a>!
+    unavailable: Let's get in touch.<a href="mailto:fernando.valle11@gmail.com"> Contact me!</a>
 
   # Footer actions
   gpg: https://kretschmann.io/pub.gpg

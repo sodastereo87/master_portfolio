@@ -4,7 +4,7 @@ import { Link, StaticQuery, graphql } from 'gatsby'
 import posed from 'react-pose'
 import classNames from 'classnames'
 import { moveInBottom } from '../atoms/Transitions'
-import { ReactComponent as Logo } from '../../images/logo.svg'
+// import { ReactComponent as Logo } from '../../images/logo.svg'
 import styles from './LogoUnit.module.scss'
 
 const query = graphql`
@@ -40,7 +40,7 @@ export default class LogoUnit extends PureComponent {
           return (
             <this.Animation>
               <Link className={wrapClasses} to={'/'}>
-                <Logo className={styles.logo} />
+                {/* <Logo className={styles.logo} /> */}
                 <h1 className={this.nameClasses}>{title.toLowerCase()}</h1>
                 <p className={this.descriptionClasses}>
                   {tagline.toLowerCase()}
