@@ -424,7 +424,34 @@
     - Express
     - MongoDB
 
-    
+        # app 16
+
+- title: MERN Reservetion App
+  slug: /MERN Reservetion App/
+  img: images/Screenshot (87).png
+  description: >
+   
+   coming soon...
+
+  links:
+    - title: MERN Reservetion App
+      type: website
+      url: https://hidden-journey-40789.herokuapp.com/
+    - title: 'Github Repositorie'
+      type: github
+      url: https://github.com/sodastereo87/master_project
+  techstack:
+    - HTML  
+    - CSS
+    - Reactstrap
+    - JavaScript
+    - MongoDB
+    - Express
+    - React
+    - Node.js
+    - Mongoose 
+    - Heroku, mLab
+    - Firebase
 
 
 
