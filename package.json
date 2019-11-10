@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "fernando valle",
   "scripts": {
-    "start": "gatsby develop",
+    "start": "node server.js",
     "start:docker": "gatsby develop --host 0.0.0.0",
     "ssr": "npm run build && serve -s public/",
     "lint:js": "eslint ./gatsby-*.js && eslint ./src/**/*.{js,jsx}",
@@ -34,6 +34,7 @@
     "classnames": "^2.2.6",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "express-favicon": "^2.0.1",
     "file-saver": "^2.0.2",
     "gatsby": "^2.15.29",
     "gatsby-image": "^2.2.8",
@@ -53,6 +54,7 @@
     "graphql": "^14.5.8",
     "intersection-observer": "^0.7.0",
     "method-override": "^3.0.0",
+    "path": "^0.12.7",
     "react": "^16.10.2",
     "react-dom": "^16.9.0",
     "react-helmet": "^5.2.1",
@@ -64,7 +66,8 @@
     "routes": "^2.1.0",
     "routes-router": "^4.3.1",
     "suncalc": "^1.8.0",
-    "vcf": "^2.0.4"
+    "vcf": "^2.0.4",
+    "yarn": "^1.19.1"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
