@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "fernando valle",
   "scripts": {
-    "start": "node server.js",
+    "start": "gatsby develop",
     "start:docker": "gatsby develop --host 0.0.0.0",
     "ssr": "npm run build && serve -s public/",
     "lint:js": "eslint ./gatsby-*.js && eslint ./src/**/*.{js,jsx}",
